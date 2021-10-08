@@ -1,4 +1,4 @@
-![2](C:\Users\rychu\Desktop\FLT\P3M\P3-Project\Images\2.jpg)
+<img src="Images\2.jpg" alt="A" style="zoom:200%;" />
 
 # Terry Traffic Stops Analysis
 
