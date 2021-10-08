@@ -1,4 +1,6 @@
-# Phase 3 Project
+![2](C:\Users\rychu\Desktop\FLT\P3M\P3-Project\Images\2.jpg)
+
+# Terry Traffic Stops Analysis
 
 ## Overview
 
@@ -18,11 +20,11 @@ With the provided data, the most accurate model which was selected to run throug
 
 ## Repository Structure
 
-- .ipynb_checkpoints
-- PowerPoint File
-- GitHub PDF
-- Notebook PDF
-- Phase 3 Project JYNB.ipynb
-- PowerPoint PDF
+- images
+- .gitignore
+- P3 Notebook.ipynb
+- P3 Notebook PDF
+- P3 Presentation PDF
+- Presentation pptx
 - README
 - Terry_Stops.csv
