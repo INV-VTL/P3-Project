@@ -22,6 +22,7 @@ With the provided data, the most accurate model which was selected to run throug
 
 - images
 - .gitignore
+- INV-VTL_P3-Project PDF
 - P3 Notebook.ipynb
 - P3 Notebook PDF
 - P3 Presentation PDF
