@@ -1,4 +1,4 @@
-<img src="Images\2.jpg" alt="A" style="zoom:200%;" />
+<img src="Images\2.jpg" alt="A" width="800" />
 
 # Terry Traffic Stops Analysis
 
